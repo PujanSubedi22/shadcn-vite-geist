@@ -2,13 +2,16 @@
 
 This is a template for a new Vite project with React, TypeScript, and shadcn/ui.
 
+## Demo
+
+https://shadcn-vite-geist.vercel.app/
 
 ## Fonts
 
 To add Geist:
 
 ```bash
-npm install @fontsource-variable/geist
+pnpm install @fontsource-variable/geist
 ```
 
 Then add the following to your `index.css`:
@@ -21,6 +24,6 @@ Update the `theme` section in `index.css` to use the new font:
 
 ```css
 @theme inline {
-    --font-sans: 'Geist Variable', sans-serif;
+  --font-sans: 'Geist Variable', sans-serif;
 }
 ```
